@@ -8,8 +8,6 @@
     <strong>A simple Arduino project that monitors the state of the mains power supply and the backup power supply.</strong>
     <br>
     <br>
-    <br>
-    <br>
     <img src="https://cdn.karlosoft.com/cdn-data/ks/img/powerchecker/github-project.png" alt="Project" width="700"/>
     <img src="https://cdn.karlosoft.com/cdn-data/ks/img/powerchecker/github-model.png" alt="Model" width="700"/>
 </p>
