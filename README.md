@@ -1,6 +1,6 @@
 # Power Checker
 
-By Karel Cermak | [Karlosoft](https://karlosoft.com).
+By Karel Čermák | [Karlosoft](https://karlosoft.com).
 
 ## A simple Arduino project that monitors the state of the mains power supply and the backup power supply.
 
