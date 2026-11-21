@@ -1,13 +1,20 @@
-# Power Checker
+<p align="center">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.karlosoft.com/cdn-data/ks/img/powerchecker/logo.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://cdn.karlosoft.com/cdn-data/ks/img/powerchecker/logo-dark.svg">
+        <img alt="Power Checker" src="https://cdn.karlosoft.com/cdn-data/ks/img/powerchecker/logo-dark.svg" width="700">
+    </picture>
+    <br>
+    <strong>A simple Arduino project that monitors the state of the mains power supply and the backup power supply.</strong>
+    <br>
+    <br>
+    <br>
+    <br>
+    <img src="https://cdn.karlosoft.com/cdn-data/ks/img/powerchecker/github-project.png" alt="Project" width="700"/>
+    <img src="https://cdn.karlosoft.com/cdn-data/ks/img/powerchecker/github-model.png" alt="Model" width="700"/>
+</p>
 
-By Karel Čermák | [Karlosoft](https://karlosoft.com).
-
-## A simple Arduino project that monitors the state of the mains power supply and the backup power supply.
-
-<img src="https://cdn.karlosoft.com/cdn-data/ks/img/powerchecker/github-project.png" alt="Project" width="700"/>
-<img src="https://cdn.karlosoft.com/cdn-data/ks/img/powerchecker/github-model.png" alt="Model" width="700"/>
-
----
+<br>
 
 ## Features
 - Monitors the mains power supply and the backup power supply (via USB).
